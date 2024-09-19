@@ -1,0 +1,20 @@
+2024-09-18 09:29:04.835674 [info] : ========== Server init ==========
+2024-09-18 09:29:04.835707 [info] : Port:5678, OpenLinger: false
+2024-09-18 09:29:04.835717 [info] : Listen Mode: ET, OpenConn Mode: ET
+2024-09-18 09:29:04.835726 [info] : LogSys level: 1
+2024-09-18 09:29:04.835734 [info] : srcDir: /home/cgh/CodeFolder/tinyWebserver/resources/
+2024-09-18 09:29:04.835742 [info] : SqlConnPool num: 12, ThreadPool num: 6
+2024-09-18 09:29:04.835751 [info] : ========== Server start ==========
+2024-09-18 09:29:33.090116 [info] : Client[18](127.0.0.1:25312) in, userCount:1
+2024-09-18 09:29:33.090194 [info] : Client[18] in!
+2024-09-18 09:29:33.097419 [info] : Client[19](127.0.0.1:26336) in, userCount:2
+2024-09-18 09:29:33.097491 [info] : Client[19] in!
+2024-09-18 09:29:33.189508 [info] : Client[22](127.0.0.1:30432) in, userCount:3
+2024-09-18 09:29:33.189590 [info] : Client[22] in!
+2024-09-18 09:29:33.198266 [info] : Client[23](127.0.0.1:32480) in, userCount:4
+2024-09-18 09:29:33.198376 [info] : Client[23] in!
+2024-09-18 09:29:33.216013 [info] : Client[24](127.0.0.1:35552) in, userCount:5
+2024-09-18 09:29:33.216074 [info] : Client[24] in!
+2024-09-18 09:29:33.237603 [info] : Client[26](127.0.0.1:39136) in, userCount:6
+2024-09-18 09:29:33.237697 [info] : Client[26] in!
+2024-09-18 09:29:40.576057 [info] : Client[26] quit!

@@ -1,0 +1,14 @@
+2024-09-17 19:49:41.049534 [info] : ========== Server init ==========
+2024-09-17 19:49:41.049616 [info] : Port:5678, OpenLinger: false
+2024-09-17 19:49:41.049626 [info] : Listen Mode: ET, OpenConn Mode: ET
+2024-09-17 19:49:41.049634 [info] : LogSys level: 1
+2024-09-17 19:49:41.049641 [info] : srcDir: /home/cgh/tmp/WebServer/resources/resources/
+2024-09-17 19:49:41.049649 [info] : SqlConnPool num: 12, ThreadPool num: 6
+2024-09-17 19:49:41.049657 [info] : ========== Server start ==========
+2024-09-17 19:49:53.765133 [info] : Client[18](127.0.0.1:8870) in, userCount:1
+2024-09-17 19:49:53.765257 [info] : Client[18] in!
+2024-09-17 19:49:53.780051 [info] : Client[19](127.0.0.1:9894) in, userCount:2
+2024-09-17 19:49:53.780459 [info] : Client[19] in!
+2024-09-17 19:49:53.787795 [info] : Client[18] quit!
+2024-09-17 19:49:53.787917 [info] : Client[18](127.0.0.1:8870) quit, UserCount:1
+2024-09-17 19:50:04.226157 [info] : Client[18](127.0.0.1:14013) in, userCount:2
